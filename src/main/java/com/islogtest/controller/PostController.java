@@ -43,5 +43,5 @@ public class PostController {
         return postService.getList(pageable);
     }
     // 그냥 아무 내용이나 추가가 되었다.
-    // 한 줄 더 추가
+    // 그냥 일단 아무 내용이나 한 번 수정을 해보았다.
 }
