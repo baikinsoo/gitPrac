@@ -42,4 +42,6 @@ public class PostController {
     public List<PostResponse> getList(Pageable pageable) {
         return postService.getList(pageable);
     }
+    // 그냥 아무 내용이나 추가가 되었다.
+    // 한 줄 더 추가
 }
